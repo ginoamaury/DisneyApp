@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DisneyCodeChallenge_GinoAmauryGongora</string>
+    <string name="top_bar_title">Select Guests</string>
+    <string name="heading_have_reservations">These Guest Have Reservations</string>
+    <string name="heading_need_reservations">These Guest Need Reservations</string>
+    <string name="advice_guest">At least one Guest in the party must have a reservation. Guests without reservations must remain in the same booking party in order to enter.</string>
+    <string name="fab_continue">Continue</string>
+    <string name="snackbar_title">Reservation Needed</string>
+    <string name="snackbar_body">Select at least one Guest that has a reservation to continue.</string>
+    <string name="accessibility_disney_image">Disney</string>
+    <string name="accessibility_back">Back</string>
+    <string name="accessibility_checkbox">checkbox</string>
+    <string name="accessibility_check">Checked</string>
+    <string name="accessibility_uncheck">Unchecked</string>
+    <string name="accessibility_icon_info">Info Icon</string>
+    <string name="accessibility_icon_error">Error Icon</string>
+    <string name="accessibility_icon_close">Close Icon</string>
+    <string name="test_tag_loading">loading</string>
+    <string name="test_tag_loaded">loaded</string>
+    <string name="test_tag_error">error</string>
+    <string name="comma">,</string>
+</resources>
